@@ -59,9 +59,9 @@ Result: https://github.com/OrangeRoot/commit_activity_generator_demo.git
 
 ## Bonus
 
-Script features the loading bar as it runs.
+Script features the progress bar as it runs.
 
-![Loading_bar](loading_bar_demo.gif)
+![Progress_bar](loading_bar_demo.gif)
 
 ## License
 
